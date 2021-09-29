@@ -2,7 +2,7 @@
   "name": "todo-list",
   "description": "Electron & React Todo List Demo Application",
   "author": "jihun.bang",
-  "version": "0.1",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "cross-env": "6.0.2",
